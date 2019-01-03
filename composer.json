@@ -1,0 +1,14 @@
+{
+    "name": "myproject1/myproject1",
+    "description": "This is my first laravel project",
+    "authors": [
+        {
+            "name": "Beng Sovannak",
+            "email": "beng.sovannak@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^3.5",
+        "simple-crud/simple-crud": "^6.12"
+    }
+}
